@@ -18,4 +18,6 @@ Get a free key at https://aistudio.google.com/apikey
 - Download as .txt or .docx
 
 ## Screenshots
-(add 1–2 screenshots here)
+<img width="1374" height="1061" alt="test1" src="https://github.com/user-attachments/assets/ab6ddd7f-86c8-4b23-9994-2438920ea8d2" />
+<img width="1220" height="1055" alt="test3" src="https://github.com/user-attachments/assets/dd41775f-b28e-496b-afef-86f44c7c935c" />
+
